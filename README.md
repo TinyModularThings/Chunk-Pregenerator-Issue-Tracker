@@ -1,4 +1,5 @@
-Welcome to the Chunk Pregenerator Issue Tracker / Wiki     
+### Welcome to the Chunk Pregenerator Issue Tracker / Wiki     
+![Image](https://media.forgecdn.net/avatars/98/386/636298749638868156.png)     
 This page contains all the information you need.     
 
 
