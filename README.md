@@ -10,5 +10,3 @@ If you have a issue please check the known issues:
 
 The Documentation can be found here:    
 - [Wiki](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki)
-
-Please keep in mind that the page is right now under construction.
