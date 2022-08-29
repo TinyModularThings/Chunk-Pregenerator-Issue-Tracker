@@ -3,6 +3,7 @@
 This page contains all the information you need.     
 
 
+
 If you have a issue please check the known issues:    
 - [Minecraft 1.12 or older](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/issues/1)
 - [Minecraft 1.14 or newer](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/issues/2)
@@ -10,3 +11,7 @@ If you have a issue please check the known issues:
 
 The Documentation can be found here:    
 - [Wiki](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki)
+
+Where the Preview got moved to:
+- [Information](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki/Pro-Version)
+- [Downloads](https://www.patreon.com/Speiger?filters[tag]=Chunk-Pregenerator)
