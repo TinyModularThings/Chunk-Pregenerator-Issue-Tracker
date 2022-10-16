@@ -12,6 +12,6 @@ If you have a issue please check the known issues:
 The Documentation can be found here:    
 - [Wiki](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki)
 
-Where the Preview got moved to:
+## Where the Preview got moved to:
 - [Information](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki/Pro-Version)
 - [Downloads](https://www.patreon.com/Speiger?filters[tag]=Chunk-Pregenerator)
