@@ -13,5 +13,5 @@ The Documentation can be found here:
 - [Wiki](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki)
 
 ## Where the Preview got moved to:
-- [Information](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki/Pro-Version)
+- [Information](https://github.com/TinyModularThings/Chunk-Pregenerator-Issue-Tracker/wiki/Supporter-Version)
 - [Downloads](https://www.patreon.com/Speiger?filters[tag]=Chunk-Pregenerator)
