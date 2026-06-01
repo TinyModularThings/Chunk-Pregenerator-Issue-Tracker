@@ -1,0 +1,60 @@
+name: Bugreport
+description: If you experience a Bug/Crash with Chunk Pregenerator
+type: Bug
+body: 
+  - type: checkboxes
+    attributes:
+      label: Checks
+      options:
+        - label: I have done some search for duplicate issues and have found none
+          required: true
+        - label: I have checked that the installed version is the latest on the page and haven't missed a recent update
+          required: true
+        - label: I have made sure that this mod is the cause for the issue/crash.
+          required: true
+  - type: dropdown
+    id: mcversion
+    attributes:
+      label: Minecraft Version
+      options:
+        - Select a Version
+        - "1.7"
+        - "1.8"
+        - "1.10"
+        - "1.11"
+        - "1.12"
+        - "1.14"
+        - "1.15"
+        - "1.16"
+        - "1.18"
+        - "1.19"
+        - "1.20"
+        - "1.21"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: modLoader
+    attributes:
+      label: Modloader
+      options:
+        - Select a Modloader
+        - "Forge"
+        - "Neoforge"
+    validations:
+      required: true
+
+  - type: input
+    id: file_name
+    attributes:
+      label: File Name
+      description: The File Name of the version you are using. Please provide the exact file name.
+    validations:
+      required: true
+
+  - type: textarea
+    id: issue_description
+    attributes:
+      label: What is the issue?
+      description: Describe the issue.      
+      placeholder: Describe the Problem. What you did and Provide Logs or images as needed.
